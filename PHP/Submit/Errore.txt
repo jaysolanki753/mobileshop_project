@@ -1,0 +1,1 @@
+Value2 is not 0, its devisible---Ans is: 3.3333333333333
